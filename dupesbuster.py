@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# pulled from git 140911
 # bad line endings have been removed with dos2unix   [20140831]
 # that caused crazy reaction when using directly (using the shebang)
 # 140831: shortened the exit if no dupes
